@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
      <groupId>minimal-group</groupId>
-     <artifactId>minimal-app</artifactId>
+     <artifactId>minimal-app-iOS</artifactId>
      <version>1.0</version>
 
 </project>
